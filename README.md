@@ -2,16 +2,18 @@
 
 ## Alunos integrantes da equipe
 
-* Amanda Moura
-* André Faria
-* Luiz Gustavo Santos
-* Pedro Ramos
-* Philippe Vieira
-
+* Amanda Moura de Souza
+* André Rodrigues de Freitas Faria
+* Luiz Gustavo Mendes Santos
+* Pedro Ramos Vidigal
+* Philippe Roberto Dutra Chaves Vieira
 
 ## Professor responsável
 
-* Leornado Vilela
+* Leonardo Vilela Cardoso
+
+## Objetivo
+Análise comparativa entre os modelos BiLSTM e BERT, no que se diz respeito à classificação de sentimentos em mensagens oriundas de redes sociais (particularmente tweets).
 
 ## Instruções de Uso
 
